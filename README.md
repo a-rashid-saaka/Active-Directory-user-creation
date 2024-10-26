@@ -63,14 +63,14 @@
  
   ![image](https://github.com/user-attachments/assets/3ad72ba3-83ba-4ec4-a3b1-a30c728066d7)
 
-  This user should be able to log in since it's one of the generated user accounts
+  This user should be able to log into the domain since it's one of the users
 <br>
 <br>
 
 
 <h2> Conclusion </h2>
 
-<p>In conclusion, the "Active Directory Domain User Generation" project optimizes our user management process. By utilizing a PowerShell script, we can efficiently create domain user accounts.</p>
+<p>In conclusion, the "Active Directory Bulk User Account Creation" project optimizes our user management process. By utilizing a PowerShell script, we can efficiently create domain user accounts in bulk.</p>
 
 
   
