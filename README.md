@@ -1,12 +1,12 @@
 
-<h1 align="center"> Active Directory User Generation </h1>
+<h1 align="center"> Active Directory Doamin User Generation </h1>
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
 
-<p>Welcome to the "Active Directory User Generation" project. In this project, we will develop user accounts using a PowerShell script. This script will help organize and populate our domain with user profiles, preparing us for future simulated scenarios. </p>
+<p>Welcome to the "Active Directory Domain User Generation" project. In this project, we will develop user accounts using a PowerShell script. This script will help organize and populate our domain with user profiles, preparing us for future simulated scenarios. </p>
 
 <h2>Prerequisites</h2>
 
@@ -15,9 +15,9 @@
 
 <h2> Objective</h2>
 
-<h4>User Account Creation</h4>
+<h4>Domain User Account Creation</h4>
 
--  Create multiple users using a PowerShell script to populate our domain.
+-  Create multiple domain users using a PowerShell script to populate our domain.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,10 +32,10 @@
 - Windows (Windows 10 Pro)
 
 
-<h1>User Account Creation</h1>
+<h1>Domain User Account Creation</h1>
 
 <h3>&#9312; Execute PowerShell script</h3>
-<p>We will use a PowerShell script to create user accounts in our Active Directory Domain. 
+<p>We will use a PowerShell script to create domain user accounts in our Active Directory Domain. 
 </p>
 
 - Login to VM1-DC with the credentials of S-Samuels or any admin user
@@ -55,3 +55,23 @@
 ![image](https://github.com/user-attachments/assets/95c38ad7-efcf-4876-a712-a06b391cb410)
 
 <p><strong>NOTE: Just for this tutorial, make sure the password policy is changed inside the Group Policy Objects of the domain, to allow us to create user accounts without password restrictions</strong></p>
+
+<h3>&#9313; Login as domain user </h3>
+
+- Let’s log in as a domain user to verify the previous task's success.
+- Please remember to note the password used in our script (USERPASSWORD).
+ 
+  ![image](https://github.com/user-attachments/assets/3ad72ba3-83ba-4ec4-a3b1-a30c728066d7)
+
+  This user should be able to log in since it's one of the generated user accounts
+<br>
+<br>
+
+
+<h2> Conclusion </h2>
+
+<p>In conclusion, the "Active Directory Domain User Generation" project optimizes our user management process. By utilizing a PowerShell script, we can efficiently create domain user accounts.</p>
+
+
+  
+  
