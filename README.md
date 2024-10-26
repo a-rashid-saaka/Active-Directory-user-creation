@@ -49,7 +49,7 @@
 <br>
 <br>
 
-- Once the script finishes running you can verify the newly created user accounts
+- Once the script finishes running you can verify the newly created user accounts in the Active Directory Users and Computers
 
 
 ![image](https://github.com/user-attachments/assets/95c38ad7-efcf-4876-a712-a06b391cb410)
