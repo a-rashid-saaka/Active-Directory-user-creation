@@ -44,4 +44,14 @@
   
   ![image](https://github.com/user-attachments/assets/36f34937-f848-405a-bf11-8e2ccbd54177)
 
-- <p><strong>Learn more about the Powershell script here. <a href="https://www.youtube.com/watch?v=MHsI8hJmggI&t=1623s">User Generation script </a> </strong></p> 
+   - <p><strong>Learn more about the Powershell script here. <a href="https://www.youtube.com/watch?v=MHsI8hJmggI&t=1623s">User Generation script </a> </strong></p> 
+
+<br>
+<br>
+
+- Once the script finishes running you can verify the newly created user accounts
+
+
+![image](https://github.com/user-attachments/assets/95c38ad7-efcf-4876-a712-a06b391cb410)
+
+<p><strong>NOTE: Just for this tutorial, make sure the password policy is changed inside the Group Policy Objects of the domain, to allow us to create user accounts without password restrictions</strong></p>
