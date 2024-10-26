@@ -1,12 +1,12 @@
 
-<h1 align="center"> Active Directory Doamin User Generation </h1>
+<h1 align="center"> Active Directory Bulk User Account Creation </h1>
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
 
-<p>Welcome to the "Active Directory Domain User Generation" project. In this project, we will develop user accounts using a PowerShell script. This script will help organize and populate our domain with user profiles, preparing us for future simulated scenarios. </p>
+<p>Welcome to the "Active Directory Bulk User Account Creation" project. In this project, we will create user accounts using a PowerShell script. This script will help organize and populate our domain with user profiles, preparing us for future simulated scenarios. </p>
 
 <h2>Prerequisites</h2>
 
@@ -15,7 +15,7 @@
 
 <h2> Objective</h2>
 
-<h4>Domain User Account Creation</h4>
+<h4> User Account Creation</h4>
 
 -  Create multiple domain users using a PowerShell script to populate our domain.
 
@@ -32,10 +32,10 @@
 - Windows (Windows 10 Pro)
 
 
-<h1>Domain User Account Creation</h1>
+<h1> User Account Creation</h1>
 
 <h3>&#9312; Execute PowerShell script</h3>
-<p>We will use a PowerShell script to create domain user accounts in our Active Directory Domain. 
+<p>We will use a PowerShell script to create domain users in our Active Directory. 
 </p>
 
 - Login to VM1-DC with the credentials of S-Samuels or any admin user
