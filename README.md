@@ -1,8 +1,10 @@
 
-<h1 align="center"> Active Directory Bulk User Account Creation </h1>
+
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
+
+<h1 align="center"> Active Directory Bulk User Account Creation </h1>
 
 
 
